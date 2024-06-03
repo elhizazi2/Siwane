@@ -1,4 +1,3 @@
-<script>
 // إنشاء النجوم بواسطة elhizazi1
 const starsDiv = document.querySelector('.stars');
 for (let i = 1; i <= 5; i++) {
@@ -71,4 +70,3 @@ function updateStars() {
         }
     });
 }
-</script>
